@@ -1,7 +1,3 @@
-# Router
-
-Devinow Framework Routing Library.
-
 ## Installation
 
 ```
