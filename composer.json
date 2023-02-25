@@ -1,0 +1,37 @@
+{
+	"name": "devinow/router",
+	"description": "Devinow Framework Routing Library,Router for PHP. Simple, lightweight and convenient.",
+	"type": "library",
+	"license": "MIT",
+	"keywords": [ "router", "routing", "route", "http" ],
+	"require": {
+	  "php": ">=8.1.0"
+	},
+	"authors": [
+	  {
+		"name": "Devinow",
+		"email": "info@devinow.xyz",
+		"homepage": "https://devinow.xyz",
+		"role": "Developer"
+	  }
+	],
+	"repositories": [
+	  {
+		  "type": "vcs",
+		  "url": "https://github.com/devinow/router"
+	  }
+	],
+	"support": {
+		  "email": "info@devinow.xyz"
+	},
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"autoload": {
+	  "psr-4": {
+		"Devinow\\Router\\": "/"
+	  },
+	  "files": [
+		"loader.php"
+	  ]
+	}
+  }
