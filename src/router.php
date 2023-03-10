@@ -6,6 +6,7 @@
 
 namespace Devinow\Router;
 
+
 final class Router {
 
 	/** Regular expression used to find named parameters in routes */
