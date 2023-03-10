@@ -6,6 +6,7 @@
 
 namespace Devinow\Router;
 
+
 final class path {
 
 	private $str;
